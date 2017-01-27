@@ -1,0 +1,18 @@
+{
+  "name": "folder1",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "json-file-reader.js",
+  "scripts": {
+    "test": "blah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "ok"
+  ],
+  "author": "King Tut",
+  "license": "ISC"
+}
